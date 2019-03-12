@@ -1,0 +1,27 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "First responsive portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "keywords": [
+    "unumandakh",
+    "bayandelger",
+    "uno",
+    "bayan",
+    "portfolio",
+    "HTML5",
+    "CSS3",
+    "SASS",
+    "NPM",
+    "Javascript",
+    "Git"
+  ],
+  "author": "Unumandakh Bayandelger",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
